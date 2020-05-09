@@ -2,12 +2,12 @@
 
 ![Project Image](img/Portfolio.png)
 
-> This is a Portfolio featuring my skills and projects made by me. This was developed as a weekend web development projects
+> This is a Portfolio featuring my skills and projects made by me. This project was developed as a weekend web development project.
 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+Find below the different aspects of this project for your refference.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -17,12 +17,15 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+In today's competitive world, standing out from the crowd is the key aspect that can actually get you hired, in that direction I created an online Resume/Portfolio featuring my Skill, Experience and projects completed by me.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- HTML 5
+- CSS 3
+- JavaScript
+- JQuery
+- Bootstrap
 
 [Back To The Top](#read-me-template)
 
@@ -30,11 +33,17 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 ## How To Use
 
-#### Installation
+- Website - [Click here to view the website](https://bit.ly/RohanChristopher)
+
+
+---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Rohan Christopher - [Reach Rohan](https://bit.ly/RohanChristopher)
+- LinkedIn - [Rohan Christopher](https://www.linkedin.com/in/rohan-christopher-439234166/)
 
 [Back To The Top](#read-me-template)
+
+---
+
