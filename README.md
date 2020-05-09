@@ -1,6 +1,7 @@
 <html>
 <body>
-<a href =https://robotic7o7.github.io/RohanChristopherPortfolio/index-dark.html><h1>Rohan Christopher Portfolio</h1></a>
+<h1>Rohan Christopher Portfolio</h1>
+ <a href =https://robotic7o7.github.io/RohanChristopherPortfolio/index-dark.html> View Website </a>
 </body>
 <html>
 
